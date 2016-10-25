@@ -16463,11 +16463,6 @@ useful for debugging.</text>
 <wire x1="83.82" y1="-91.44" x2="99.06" y2="-91.44" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="IC2" gate="G$1" pin="CTL0/FLAGA"/>
-<wire x1="-406.4" y1="-284.48" x2="-388.62" y2="-284.48" width="0.1524" layer="91"/>
-<label x="-401.32" y="-284.48" size="1.778" layer="95"/>
-</segment>
-<segment>
 <wire x1="-264.16" y1="-73.66" x2="-264.16" y2="-121.92" width="0.1524" layer="91"/>
 <wire x1="-264.16" y1="-121.92" x2="-129.54" y2="-121.92" width="0.1524" layer="91"/>
 <wire x1="-129.54" y1="-121.92" x2="-129.54" y2="-73.66" width="0.1524" layer="91"/>
@@ -16478,6 +16473,11 @@ useful for debugging.</text>
 <wire x1="-264.16" y1="-73.66" x2="-292.1" y2="-73.66" width="0.1524" layer="91"/>
 <junction x="-264.16" y="-73.66"/>
 <label x="-289.56" y="-73.66" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="IC2" gate="G$1" pin="CTL1/FLAGB"/>
+<wire x1="-406.4" y1="-287.02" x2="-388.62" y2="-287.02" width="0.1524" layer="91"/>
+<label x="-401.32" y="-287.02" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$39" class="0">
