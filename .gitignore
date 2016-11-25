@@ -1,4 +1,6 @@
 /eagle/Design/*.b#?
 /eagle/Design/*.s#?
 /eagle/Design/*.l#?
+/eagle/Design/*.job
+/eagle/Design/*.pro
 *.lck
